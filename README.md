@@ -8,7 +8,9 @@ This task helps practice **control flow, loops, input handling, and basic NLP st
 
 ##  Project Structure
 chatbot
+
 │
+
 ├── chatbot.py # Main chatbot script
 
 ├── requirements.txt # Dependencies (if any)
